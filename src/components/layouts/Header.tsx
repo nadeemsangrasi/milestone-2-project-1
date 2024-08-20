@@ -1,5 +1,5 @@
 import React from "react";
-import Wrapper from "../shared/Wrapper";
+
 import Link from "next/link";
 
 const Header = () => {
@@ -9,10 +9,10 @@ const Header = () => {
       <div>
         <ul className="flex space-x-4">
           <li className="li">
-            <Link href={"#"}>Home</Link>
+            <Link href={"/"}>Home</Link>
           </li>
           <li className="li">
-            <Link href={"#"}>Work</Link>
+            <Link href={"/work"}>Work</Link>
           </li>
           <li className="li">
             <Link href={"#"}>Contact us</Link>
