@@ -4,10 +4,12 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="flex  justify-between items-center px-10 py-4 my-4  w-1/2 mx-auto bg-slate-500 rounded-full text-white">
-      <h1 className="text-2xl  font-semibold ">Logo</h1>
+    <header className="sm:flex  justify-between items-center px-4 sm:px-10 py-2 sm:py-4 my-4   sm:w-3/5 lg:w-1/2 mx-auto bg-slate-500 rounded-full text-white">
+      <h1 className="text-xl md:text-2xl  font-semibold text-center sm:text-start -pt-2 ">
+        Logo
+      </h1>
       <div>
-        <ul className="flex space-x-4">
+        <ul className="flex space-x-4 mx-auto items-center justify-center">
           <li className="li">
             <Link href={"/"}>Home</Link>
           </li>
