@@ -12,14 +12,14 @@ const AboutPage = () => {
         <div className="space-y-10 lg:flex justify-between w-full px-10  gap-4">
           <div className="w-full lg:w-1/2  lg:mt-20 pt-4">
             <p className="text-sm sm:text-lg font-medium py-2 pb-4">
-              At our company, we're a team of innovative thinkers and passionate
-              developers dedicated to crafting exceptional digital experiences.
-              With a deep understanding of the latest technologies and trends,
-              we specialize in designing and developing custom software
-              solutions that drive business growth and success. From bespoke web
-              applications to mobile apps and e-commerce platforms, our
-              expertise is focused on delivering tailored solutions that meet
-              the unique needs of our clients.
+              At our company, we are a team of innovative thinkers and
+              passionate developers dedicated to crafting exceptional digital
+              experiences. With a deep understanding of the latest technologies
+              and trends, we specialize in designing and developing custom
+              software solutions that drive business growth and success. From
+              bespoke web applications to mobile apps and e-commerce platforms,
+              our expertise is focused on delivering tailored solutions that
+              meet the unique needs of our clients.
             </p>
             <Button
               text="More Information"
