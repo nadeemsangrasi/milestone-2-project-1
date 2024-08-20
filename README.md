@@ -1,24 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Milestone 2 Project - Basic Portfolio
 
-## Getting Started
+This project is the second milestone in our journey to mastering Next.js. The portfolio is built using the App Router and features four essential pages:
 
-First, run the development server:
+- **Home**
+- **About**
+- **Work**
+- **Contact Us**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This milestone project is a part of the **Next.js Code Circle for Senior Students**, guided by **Sir Ameen Alam**. The focus of this milestone is to solidify our understanding of:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Routing**: Implementing smooth and intuitive navigation across different pages using the Next.js App Router.
+- **Layout**: Structuring the application with a reusable layout that is consistent across all pages.
+- **Styling with Tailwind CSS**: Utilizing Tailwind CSS to style components efficiently and maintain a clean and responsive design.
+- **Reusable Components**: Creating reusable components such as Buttons, Headers, and Headings to enhance modularity and reduce code repetition.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
+
+- **Home Page**: A welcoming introduction to the portfolio.
+- **About Page**: A brief overview of the individual's background and expertise.
+- **Work Page**: Showcase of selected projects or experiences.
+- **Contact Us Page**: A way to get in touch, featuring a simple contact form or contact details.
+
+## Learnings
+
+Throughout this milestone, we focused on:
+
+1. Setting up **Routing** using the App Router in Next.js.
+2. Designing a consistent **Layout** that can be reused across multiple pages.
+3. Styling with **Tailwind CSS** for a modern and responsive design.
+4. Creating **Reusable Components** to ensure maintainable and scalable code.
+
+---
+
+This project serves as a foundation for building more complex applications, reinforcing the key concepts of Next.js and modern web development.
 
 ## Learn More
 
