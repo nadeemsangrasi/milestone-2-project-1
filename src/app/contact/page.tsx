@@ -24,8 +24,7 @@ const ContactPage = () => {
         <div className="text-center">
           <Heading text="Get in touch" />
         </div>
-        <div className="shadow-3xl bg-whiyte p-10 rounded-xl w-full sm:w-1/2 mx-auto">
-          <SubHead text="Contact us" className="text-center" />
+        <div className="shadow-3xl bg-whiyte p-10 rounded-xl w-full sm:w-[900] mx-auto">
           <form onSubmit={handleSubmit} className="flex flex-col gap-4">
             <div className="flex flex-col gap-1">
               <label htmlFor="fullName" className="text-xl font-semibold">
