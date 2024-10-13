@@ -8,7 +8,7 @@ const AboutPage = () => {
   return (
     <Wrapper>
       <div className=" text-center">
-        <Heading text="Explore About Us" />
+        <Heading text="About Us" />
         <div className="space-y-10 lg:flex justify-between w-full px-10  gap-4">
           <div className="w-full lg:w-1/2  lg:mt-20 pt-4">
             <p className="text-sm sm:text-lg font-medium py-2 pb-4">
