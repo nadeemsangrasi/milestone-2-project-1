@@ -1,4 +1,4 @@
-# Milestone 2 Project - Basic Portfolio
+# Milestone 2 Project 1 with nextjs + tailwindcss - Basic Portfolio
 
 This project is the second milestone in our journey to mastering Next.js. The portfolio is built using the App Router and features four essential pages:
 
